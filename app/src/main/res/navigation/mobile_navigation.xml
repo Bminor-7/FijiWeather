@@ -3,23 +3,23 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/navigation_home">
+    app:startDestination="@+id/navigation_weather">
 
     <fragment
-        android:id="@+id/navigation_home"
-        android:name="cn.bminor7.bottomnav.ui.home.HomeFragment"
-        android:label="@string/title_home"
-        tools:layout="@layout/fragment_home" />
+        android:id="@+id/navigation_weather"
+        android:name="cn.bminor7.fijiweather.FirstFragment"
+        android:label="天气"
+        tools:layout="@layout/fragment_first" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="cn.bminor7.bottomnav.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_search"
+        android:name="cn.bminor7.fijiweather.SecondFragment"
+        android:label="搜索"
+        tools:layout="@layout/fragment_second" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="cn.bminor7.bottomnav.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_mine"
+        android:name="cn.bminor7.fijiweather.ThirdFragment"
+        android:label="我的"
+        tools:layout="@layout/fragment_third" />
 </navigation>
