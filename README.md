@@ -13,3 +13,23 @@
 可以通过在地图上标记地点查询天气
 
 通过收藏保存用户常用地天气 方便查询
+
+
+
+- ![1.jpg](readme/1.jpg)
+
+- ![2.jpg](readme/2.jpg)
+
+- ![3.jpg](readme/3.jpg)
+
+- ![4.jpg](readme/4.jpg)
+
+- ![5.jpg](readme/5.jpg)
+
+- ![6.jpg](readme/6.jpg)
+
+- ![7.jpg](readme/7.jpg)
+
+- ![8.jpg](readme/8.jpg)
+
+- ![9.jpg](readme/9.jpg)
