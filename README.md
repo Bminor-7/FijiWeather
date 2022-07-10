@@ -20,6 +20,8 @@
 
 - ![2.jpg](readme/2.jpg)
 
+//使用地图进行标记 长按标记地点 点击右上角放大镜查询该地区天气
+
 - ![3.jpg](readme/3.jpg)
 
 - ![4.jpg](readme/4.jpg)
